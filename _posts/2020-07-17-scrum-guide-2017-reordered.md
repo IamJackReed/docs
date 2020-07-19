@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "First category"
-description: "Scrum Guide 2017 - Reordered"
+title: "Product Backlog"
+description: "Product Backlog - Reordered Scrum Guide 2017"
 date:   2017-11-12 17:46:41 -0300
 categories: Scrum Guide
 icon: 'credit-card'
