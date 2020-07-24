@@ -7,5 +7,7 @@ categories: Scrum Master
 icon: 'book'
 ---
 
-# Anti-Patterns
-- ![Which Best Practice Is Ruining Your Business?](https://hbr.org/2012/12/which-best-practice-is-ruining)
+<h1 id="anti-patterns">Anti-Patterns</h1>
+<ul>
+<li><a href="https://hbr.org/2012/12/which-best-practice-is-ruining">Which Best Practice Is Ruining Your Business?</a></li>
+</ul>
