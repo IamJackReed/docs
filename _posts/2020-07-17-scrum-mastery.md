@@ -6,8 +6,7 @@ date:   2020-07-24 17:40:00 -0300
 categories: Scrum Mastery
 icon: 'book'
 ---
-
-<<h2 id="coaching-mentoring">Coaching &amp; Mentoring</h2>
+<h2 id="coaching-mentoring">Coaching &amp; Mentoring</h2>
 <p><a href="https://www.scrum.org/resources/blog/how-build-trust-enable-agility">How to Build Trust to Enable Agility</a></p>
 <p><a href="https://www.agilesocks.com/coaching-secrets-stop-being-helpful">Coaching Secret: Stop being so helpful</a></p>
 <p><a href="https://www.scrum.org/resources/psychological-models-scrum">Psychological Models In Scrum</a></p>
