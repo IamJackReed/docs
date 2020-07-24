@@ -36,9 +36,9 @@ icon: 'book'
 <h2 style="text-align: left;">Sprint Goal</h2>
 
 
+---
 
-
-# Anti-Patterns
+## Anti-Patterns
 - [Which Best Practice Is Ruining Your Business?](https://hbr.org/2012/12/which-best-practice-is-ruining)
 
 
