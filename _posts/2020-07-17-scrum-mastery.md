@@ -7,16 +7,18 @@ categories: Scrum Mastery
 icon: 'book'
 ---
 <h2 style="text-align: left;">Coaching &amp; Mentoring</h2>
-<p><span style="text-align: left; padding-left: 30px; color: #0000ff;"><a href="https://www.scrum.org/resources/blog/how-build-trust-enable-agility">How to Build Trust to Enable Agility</a></span></p>
-<p><span style="text-align: left; padding-left: 30px; color: #0000ff;"><a href="https://www.agilesocks.com/coaching-secrets-stop-being-helpful">Coaching Secret: Stop being so helpful</a></span></p>
-<p><span style="text-align: left; padding-left: 30px; color: #0000ff;"><a href="https://www.scrum.org/resources/psychological-models-scrum">Psychological Models In Scrum</a></span></p>
-<p><span style="text-align: left; padding-left: 30px; color: #0000ff;"><a href="https://www.scrum.org/resources/blog/do-you-know-any-coaching-patterns">Do You Know any Coaching Patterns?</a></span></p>
-<p><span style="text-align: left; padding-left: 30px; color: #0000ff;"><a href="https://www.scrum.org/resources/blog/agile-coach-toolkit-5-active-listening">Agile Coach Toolkit no5: Active Listening</a></span></p>
+<p><span style="text-align: left; padding-left: 8%; color: #0000ff;"><a href="https://www.scrum.org/resources/blog/how-build-trust-enable-agility">How to Build Trust to Enable Agility</a></span></p>
+<p><span style="text-align: left; padding-left: 8%; color: #0000ff;"><a href="https://www.agilesocks.com/coaching-secrets-stop-being-helpful">Coaching Secret: Stop being so helpful</a></span></p>
+<p><span style="text-align: left; padding-left: 8%; color: #0000ff;"><a href="https://www.scrum.org/resources/psychological-models-scrum">Psychological Models In Scrum</a></span></p>
+<p><span style="text-align: left; padding-left: 8%; color: #0000ff;"><a href="https://www.scrum.org/resources/blog/do-you-know-any-coaching-patterns">Do You Know any Coaching Patterns?</a></span></p>
+<p><span style="text-align: left; padding-left: 8%; color: #0000ff;"><a href="https://www.scrum.org/resources/blog/agile-coach-toolkit-5-active-listening">Agile Coach Toolkit no5: Active Listening</a></span></p>
 <h2 style="text-align: left;">Done</h2>
-<p><span style="text-align: left; padding-left: 30px; color: #0000ff;"><a href="https://www.scrum.org/resources/blog/getting-started-definition-done-dod/">Getting Started with a Definition of Done (DoD)</a></span></p>
-<p><span style="text-align: left; padding-left: 30px; color: #0000ff;"><a href="https://www.scrum.org/resources/blog/walking-through-definition-done/">Walking Through a Definition of Done</a></span></p>
-<p><span style="text-align: left; padding-left: 30px; color: #0000ff;"><a href="https://www.scrum.org/resources/blog/definition-done-should-include-definition-undone/">Definition of Done Should Include a Definition of Undo(me)</a></span></p>
-<p><span style="text-align: left; padding-left: 30px; color: #0000ff;"><a href="https://www.scrum.org/resources/blog/myth-3-scrum-releases-are-done-only-end-sprint/">Myth 3: In Scrum, releases are done only at the end of the Sprint</a></span></p>
+<p><span style="text-align: left; padding-left: 8%; color: #0000ff;"><a href="https://www.scrum.org/resources/blog/getting-started-definition-done-dod/">Getting Started with a Definition of Done (DoD)</a></span></p>
+<p><span style="text-align: left; padding-left: 8%; color: #0000ff;"><a href="https://www.scrum.org/resources/blog/walking-through-definition-done/">Walking Through a Definition of Done</a></span></p>
+<p><span style="text-align: left; padding-left: 8%; color: #0000ff;"><a href="https://www.scrum.org/resources/blog/definition-done-should-include-definition-undone/">Definition of Done Should Include a Definition of Undo(me)</a></span></p>
+
+<p><span style="text-align: left; padding-left: 8%; color: #0000ff;"><a href="https://www.scrum.org/resources/blog/myth-3-scrum-releases-are-done-only-end-sprint/">Myth 3: In Scrum, releases are done only at the end of the Sprint</a></span></p>
+
 <h2 style="text-align: left;">Emergent Software Development</h2>
 <h2 style="text-align: left;">Empiricism</h2>
 <h2 style="text-align: left;">Evidence-Based Management</h2>
