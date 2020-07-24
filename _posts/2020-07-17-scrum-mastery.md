@@ -7,19 +7,35 @@ categories: Scrum Mastery
 icon: 'book'
 ---
 
-<h2 id="anti-patterns">Anti-Patterns</h2>
+<h2 id="coaching-mentoring">Coaching &amp; Mentoring</h2>
 <ul>
-<li><a href="https://hbr.org/2012/12/which-best-practice-is-ruining">Which Best Practice Is Ruining Your Business?</a></li>
+<li><a href="https://www.scrum.org/resources/blog/how-build-trust-enable-agility">How to Build Trust to Enable Agility</a></li>
+<li><a href="https://www.agilesocks.com/coaching-secrets-stop-being-helpful">Coaching Secret: Stop being so helpful</a></li>
+<li><a href="https://www.scrum.org/resources/psychological-models-scrum">Psychological Models In Scrum</a></li>
+<li><a href="https://www.scrum.org/resources/blog/do-you-know-any-coaching-patterns">Do You Know any Coaching Patterns?</a></li>
+<li><a href="https://www.scrum.org/resources/blog/agile-coach-toolkit-5-active-listening">Agile Coach Toolkit #5: Active Listening</a></li>
 </ul>
-
-<h2 id="coaching">Coaching</h2>
+<h2 id="done">Done</h2>
 <ul>
-<li><a href="https://www.solutionsiq.com/agile-coachin-power-of-silence">Agile Coaching Tip: The Quiet Power of Silence</a></li>
-<li><a href="https://dzone.com/articles/agile-coaching-with-muhinshu">Agile Coaching With MuHinShu</a></li>
-<li><a href="https://www.infoq.com/news/2008/08/coaching_teams">Air Guitar and Attitude won’t do it</a></li>
-<li><a href="https://salfreudenberg.wordpress.com/2018/04/23/guidelines-and-guardrails/">Guidelines and Guardrails</a></li>
-<li><a href="https://agilepainrelief.com/blog/coaching-self-organizing-teams.html">Hard Science for Soft Skills</a></li>
-<li><a href="https://agilitrix.com/2009/12/coaching-self-organizing-teams/">How Self Organization Works</a></li>
-<li><a href="https://hbr.org/2015/02/is-your-employee-coachable">Is Your Employee Coachable?</a></li>
-<li><a href="https://www.movestheneedle.com/all-blog/2018/11/5/tips-for-building-an-internal-innovation-coaching-system">The Ultimate Guide To Building An Internal Innovation Coaching System</a></li>
+<li><a href="https://www.scrum.org/resources/blog/getting-started-definition-done-dod/">Getting Started with a Definition of Done (DoD)</a></li>
+<li><a href="https://www.scrum.org/resources/blog/walking-through-definition-done/">Walking Through a Definition of Done</a></li>
+<li><a href="https://www.scrum.org/resources/blog/definition-done-should-include-definition-undone/">Definition of Done Should Include a Definition of Undo(ne)</a></li>
+<li><a href="https://www.scrum.org/resources/blog/myth-3-scrum-releases-are-done-only-end-sprint/">Myth 3: In Scrum, releases are done only at the end of the Sprint</a></li>
 </ul>
+<h2 id="emergent-software-development">Emergent Software Development</h2>
+<h2 id="empiricism">Empiricism</h2>
+<h2 id="evidence-based-management">Evidence-Based Management</h2>
+<h2 id="facilitation">Facilitation</h2>
+<h2 id="forecasting-release-planning">Forecasting &amp; Release Planning</h2>
+<h2 id="leadership-styles">Leadership Styles</h2>
+<h2 id="managing-technical-risk">Managing Technical Risk</h2>
+<h2 id="optimising-flow">Optimising Flow</h2>
+<h2 id="organisational-design-culture">Organisational Design &amp; Culture</h2>
+<h2 id="product-backlog-management">Product Backlog Management</h2>
+<h2 id="product-value">Product Value</h2>
+<h2 id="scaling-scrum">Scaling Scrum</h2>
+<h2 id="scrum-artifacts">Scrum Artifacts</h2>
+<h2 id="scrum-events">Scrum Events</h2>
+<h2 id="scrum-roles">Scrum Roles</h2>
+<h2 id="scrum-values">Scrum Values</h2>
+<h2 id="sprint-goal">Sprint Goal</h2>
