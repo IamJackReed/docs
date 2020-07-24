@@ -21,7 +21,7 @@ icon: 'book'
 <p style="padding-left: 30px;"><span class="node-card-content">-&nbsp;<a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/getting-done-balancing-emergence-and-delivery" target="_blank" rel="noopener">Getting to Done: Balancing Emergence and Delivery</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/dispelling-myth-scrum-teams-dont-think-about-architecture" target="_blank" rel="noopener">- Dispelling the Myth that Scrum Teams Don't Think About Architecture</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/importance-vertically-slicing-architecture" target="_blank" rel="noopener">- The Importance of Vertically Slicing Architecture</a></span></p>
-<h2>Empiricism</span></h2>
+<h2>Empiricism</h2>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="http://agilemanifesto.org/"><span lang="en-US">- The Agile Manifesto</span></a></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum"><span lang="en-US">- The Three Pillars of Empiricism</span></a></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/empiricism-essential-element-scrum"><span lang="en-US">- Empiricism is an Essential Element of Scrum</span></a></p>
