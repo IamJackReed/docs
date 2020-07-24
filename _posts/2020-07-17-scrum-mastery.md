@@ -6,8 +6,6 @@ date:   2020-07-24 17:40:00 -0300
 categories: Scrum Mastery
 icon: 'book'
 ---
-
-
 <h2 style="text-align: left;">Coaching &amp; Mentoring</h2>
 <p><span style="text-align: left; padding-left: 30px; color: #0000ff;"><a href="https://www.scrum.org/resources/blog/how-build-trust-enable-agility">How to Build Trust to Enable Agility</a></span></p>
 <p><span style="text-align: left; padding-left: 30px; color: #0000ff;"><a href="https://www.agilesocks.com/coaching-secrets-stop-being-helpful">Coaching Secret: Stop being so helpful</a></span></p>
