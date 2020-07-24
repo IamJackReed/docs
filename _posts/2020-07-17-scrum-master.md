@@ -5,4 +5,8 @@ description: "We have started to curate and organise a collection of practical t
 date:   2020-07-24 17:40:00 -0300
 categories: Scrum Master
 icon: 'book'
+questions:
+  - question: 'Anti-Patterns'
+    answer: '![Which Best Practice Is Ruining Your Business?](https://hbr.org/2012/12/which-best-practice-is-ruining)'
+    image: "4.gif"
 ---
