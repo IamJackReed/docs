@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Scrum Master"
-description: "We have started to curate and organise a collection of practical topics, techniques, tips n tricks to help with Scrum Mastery"
+title: "Product Owner"
+description: "We have started to curate and organise a collection of practical topics, techniques, tips n tricks to help with Product Ownership"
 date:   2017-07-24 17:40:00 -0300
-categories: Scrum Master
-icon: 'credit-card'
+categories: Product Owner
+icon: 'book-open'
 ---
