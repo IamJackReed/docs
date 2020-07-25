@@ -20,16 +20,11 @@ icon: 'book'
 <h2>Emergent Software Development</h2>
 <p style="padding-left: 30px;"><span class="node-card-content">-&nbsp;<a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/getting-done-balancing-emergence-and-delivery" target="_blank" rel="noopener">Getting to Done: Balancing Emergence and Delivery</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/dispelling-myth-scrum-teams-dont-think-about-architecture" target="_blank" rel="noopener">- Dispelling the Myth that Scrum Teams Don't Think About Architecture</a></span></p>
-
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/importance-vertically-slicing-architecture" target="_blank" rel="noopener">- The Importance of Vertically Slicing Architecture</a></span></p>
-
 <h2>Empiricism</h2>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="http://agilemanifesto.org/" target="_blank" rel="noopener">- The Agile Manifesto</a></span></p>
-
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum" target="_blank" rel="noopener">- The Three Pillars of Empiricism</a></span></p>
-
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/empiricism-essential-element-scrum" target="_blank" rel="noopener">- Empiricism is an Essential Element of Scrum</a></span></p>
-
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/transparency-trenches" target="_blank" rel="noopener">- Transparency In the Trenches</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/so-what-agile-really-about" target="_blank" rel="noopener">- So What is Agile Really About?</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/agile-constant-change" target="_blank" rel="noopener">- Agile is Constant Change</a></span></p>
@@ -53,10 +48,8 @@ icon: 'book'
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/what-servant-leadership" target="_blank" rel="noopener">- What is Servant Leadership</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/search-servant-leader" target="_blank" rel="noopener">- In Search of a Servant Leader</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/5-agile-leadership-tips-creating-mature-scrum-teams" target="_blank" rel="noopener">- 5 Agile Leadership Tips for Creating Mature Scrum Teams</a></span></p>
-
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/agile-coach-toolkit-7-straight-feedback" target="_blank" rel="noopener">- Agile Coach Toolkit no7: Straight Feedback</a></span></p>
 <h2>Managing Technical Risk</h2>
-
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/slaying-technical-debt" target="_blank" rel="noopener">- Slaying Technical Debt</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/technical-debt-vs-not-done-work" target="_blank" rel="noopener">- Technical Debt vs. Not "Done" Work</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/managing-risk" target="_blank" rel="noopener">- Managing Risk</a></span></p>
