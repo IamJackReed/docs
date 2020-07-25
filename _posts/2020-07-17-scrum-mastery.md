@@ -24,7 +24,7 @@ icon: 'book'
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/importance-vertically-slicing-architecture" target="_blank" rel="noopener">- The Importance of Vertically Slicing Architecture</a></span></p>
 
 <h2>Empiricism</h2>
-<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="http://agilemanifesto.org/"><span lang="en-US">- The Agile Manifesto</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="http://agilemanifesto.org/" target="_blank" rel="noopener">- The Agile Manifesto</a></span></p>
 
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum" target="_blank" rel="noopener">- The Three Pillars of Empiricism</a></span></p>
 
@@ -53,9 +53,11 @@ icon: 'book'
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/what-servant-leadership" target="_blank" rel="noopener">- What is Servant Leadership</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/search-servant-leader" target="_blank" rel="noopener">- In Search of a Servant Leader</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/5-agile-leadership-tips-creating-mature-scrum-teams" target="_blank" rel="noopener">- 5 Agile Leadership Tips for Creating Mature Scrum Teams</a></span></p>
+
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/agile-coach-toolkit-7-straight-feedback" target="_blank" rel="noopener">- Agile Coach Toolkit no7: Straight Feedback</a></span></p>
 <h2>Managing Technical Risk</h2>
-<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/slaying-technical-debt"" target="_blank" rel="noopener">- Slaying Technical Debt</a></span></p>
+
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/slaying-technical-debt" target="_blank" rel="noopener">- Slaying Technical Debt</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/technical-debt-vs-not-done-work" target="_blank" rel="noopener">- Technical Debt vs. Not "Done" Work</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/managing-risk" target="_blank" rel="noopener">- Managing Risk</a></span></p>
 <h2>Optimising Flow</h2>
