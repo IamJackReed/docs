@@ -66,10 +66,13 @@ icon: 'book'
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/forget-building-trust-focus-psychological-safety" target="_blank" rel="noopener">- Forget building trust, focus on psychological safety</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/scaling-scrum-thales-emergent-innovation" target="_blank" rel="noopener">- Scaling Scrum @ Thales with Emergent Innovation</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://heathbrothers.com/books/switch/" target="_blank" rel="noopener">- Switch: How to Change Things When Change Is Hard</a></span></p>
-
-
 <H2>Product Backlog Management</H2>
-<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/art-product-backlog-refinement" target="_blank" rel="noopener">- The Art of Product Backlog Refinement</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/myth-14-refinement-required-meeting-entire-scrum-team" target="_blank" rel="noopener">- Myth 14: Refinement is a Required Meeting for the Entire Scrum Team</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/if-your-backlog-not-refined-then-you-are-doing-it-wrong" target="_blank" rel="noopener">- If Your Backlog Is Not Refined Then You Are Doing It Wrong</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/what-backlog-refinement" target="_blank" rel="noopener">- What is Backlog Refinement?</a></span></p>
+
+
 
 <H2>Product Value</H2>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="
