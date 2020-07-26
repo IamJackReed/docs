@@ -85,12 +85,12 @@ icon: 'book'
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/3-ideas-improve-scaled-sprint-review" target="_blank" rel="noopener">- 3 Ideas to Improve a Scaled Sprint Review</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/how-net-health-used-team-self-selection-reorganize-their-scaling-initiative" target="_blank" rel="noopener">- How Net Health Used Team Self-Selection to Reorganize Their Scaling Initiative</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/nexus-framework-scaling-scrum" target="_blank" rel="noopener">- The Nexus Framework for Scaling Scrum Book</a></span></p>
-
-
-
-
 <H2>Scrum Artifacts</H2>
-<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/importance-product-backlog-transparency" target="_blank" rel="noopener">- The Importance of Product Backlog Transparency</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/myth-2-sprint-backlog-cant-change-during-sprint" target="_blank" rel="noopener">- Myth: The Sprint Backlog can’t change during the Sprint</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/scrum-myth-sprint-backlog-commitment" target="_blank" rel="noopener">- Scrum Myth: The Sprint Backlog is a Commitment</a></span></p>
+
+
 
 <H2>Scrum Events</H2>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="
