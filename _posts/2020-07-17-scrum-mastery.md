@@ -60,3 +60,34 @@ icon: 'book'
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/limiting-work-progress-wip-scrum-kanban-what-when-who-how" target="_blank" rel="noopener">- Limiting Work in Progress (WIP) in Scrum with Kanban - What / When / Who / How</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/steve-porter-scrum-kanban" target="_blank" rel="noopener">- Steve Porter on Scrum with Kanban</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.amazon.com/Actionable-Agile-Metrics-Predictability-Introduction/dp/098643633X" target="_blank" rel="noopener">- An Introduction Actionable Agile Metrics for Predictability</a></span></p>
+<H2>Organisational Design & Culture</H2>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/culture-change-important-ingredient-Organisational-agility" target="_blank" rel="noopener">- Culture Change An Important Ingredient for Organisational Agility</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/20-unagile-things-avoid-saying-and-some-better-alternatives" target="_blank" rel="noopener">- 20 Unagile Things to Avoid Saying and Some Better Alternatives</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/forget-building-trust-focus-psychological-safety" target="_blank" rel="noopener">- Forget building trust, focus on psychological safety</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/scaling-scrum-thales-emergent-innovation" target="_blank" rel="noopener">- Scaling Scrum @ Thales with Emergent Innovation</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://heathbrothers.com/books/switch/" target="_blank" rel="noopener">- Switch: How to Change Things When Change Is Hard</a></span></p>
+
+
+<H2>Product Backlog Management</H2>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="
+
+<H2>Product Value</H2>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="
+
+<H2>Scaling Scrum</H2>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="
+
+<H2>Scrum Artifacts</H2>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="
+
+<H2>Scrum Events</H2>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="
+
+<H2>Scrum Roles</H2>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="
+
+<H2>Scrum Values</H2>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="
+
+<H2>Sprint Goal</H2>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="
