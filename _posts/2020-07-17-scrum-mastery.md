@@ -71,14 +71,23 @@ icon: 'book'
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/myth-14-refinement-required-meeting-entire-scrum-team" target="_blank" rel="noopener">- Myth 14: Refinement is a Required Meeting for the Entire Scrum Team</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/if-your-backlog-not-refined-then-you-are-doing-it-wrong" target="_blank" rel="noopener">- If Your Backlog Is Not Refined Then You Are Doing It Wrong</a></span></p>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/what-backlog-refinement" target="_blank" rel="noopener">- What is Backlog Refinement?</a></span></p>
-
-
-
 <H2>Product Value</H2>
-<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="
-
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/calling-all-industries-your-process-failing-you" target="_blank" rel="noopener">- Calling All Industries: Your Process is Failing You</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/how-being-yelled-users-changes-your-perspective-customer-value" target="_blank" rel="noopener">- How Being Yelled at by Users Changes your Perspective on Customer Value</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/scrum-adoption-story-how-we-delivered-value-7-days" target="_blank" rel="noopener">- A Scrum Adoption Story - How we delivered value in 7 days</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/plan-driven-vs-value-driven-development" target="_blank" rel="noopener">- Plan Driven vs. Value Driven Development</a></span></p>
 <H2>Scaling Scrum</H2>
-<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/nexus-guide" target="_blank" rel="noopener">- The Nexus Guide</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/nexus-framework-poster" target="_blank" rel="noopener">- Nexus Framework Poster</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/introduction-nexus-framework" target="_blank" rel="noopener">- An Introduction to the Nexus Framework</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/cross-team-refinement-nexus" target="_blank" rel="noopener">- Cross-Team Refinement in Nexus</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/visualizing-nexus-sprint-backlog" target="_blank" rel="noopener">- Visualizing the Nexus Sprint Backlog</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/blog/3-ideas-improve-scaled-sprint-review" target="_blank" rel="noopener">- 3 Ideas to Improve a Scaled Sprint Review</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/how-net-health-used-team-self-selection-reorganize-their-scaling-initiative" target="_blank" rel="noopener">- How Net Health Used Team Self-Selection to Reorganize Their Scaling Initiative</a></span></p>
+<p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="https://www.scrum.org/resources/nexus-framework-scaling-scrum" target="_blank" rel="noopener">- The Nexus Framework for Scaling Scrum Book</a></span></p>
+
+
+
 
 <H2>Scrum Artifacts</H2>
 <p style="padding-left: 30px;"><span class="node-card-content"><a class="node-title-wrapper" href="
